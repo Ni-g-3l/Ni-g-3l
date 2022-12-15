@@ -1,0 +1,14 @@
+# config/_default/languages.en.toml
+
+title = "Maxime Cots"
+
+[author]
+name = "Maxime COTS"
+image = "img/author.jpg"
+headline = "C++ - Python - 3D - UI/UX"
+bio = "A little bit about me"
+links = [
+  { github = "https://github.com/Ni-g-3l" },
+  { linkedin = "https://www.linkedin.com/in/maxime-cots/" },
+  { email = "mailto:cots.max@gmail.com" }
+]

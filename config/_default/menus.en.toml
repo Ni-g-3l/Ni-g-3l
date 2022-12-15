@@ -1,0 +1,7 @@
+# config/_default/menus.toml
+
+[[main]]
+
+[[footer]]
+  name = "Source Code"
+  url = "https://github.com/Ni-g-3l/Ni-g-3l"
