@@ -1,6 +1,8 @@
 # config/_default/menus.toml
 
 [[main]]
+  name = "Resume"
+  pageRef="Resume"
 
 [[footer]]
   name = "Source Code"
