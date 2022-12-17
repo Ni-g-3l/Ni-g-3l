@@ -1,3 +1,8 @@
+---
+showDate: false
+showReadingTime: false
+---
+
 # Work Experiences
 
 ### [2020-2022] Lumiscaphe

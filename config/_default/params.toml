@@ -1,3 +1,10 @@
 colorScheme = "fire"
-
+defaultAppearance = "dark" # valid options: light or dark
 homepage.layout = "profile"
+
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true

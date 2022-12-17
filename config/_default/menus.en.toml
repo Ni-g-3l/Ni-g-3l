@@ -2,7 +2,13 @@
 
 [[main]]
   name = "Resume"
-  pageRef="Resume"
+  pageRef="resume"
+  weight = 10
+  
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 30
 
 [[footer]]
   name = "Source Code"
