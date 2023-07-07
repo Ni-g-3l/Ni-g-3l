@@ -5,6 +5,9 @@ showReadingTime: false
 
 # Work Experiences
 
+### [2023-Today] The Mill
+**Technical Director**
+
 ### [2020-2022] Lumiscaphe
 **Software Engineer** - Work and studies program
 

@@ -14,7 +14,11 @@
   name = "T.I.L"
   pageRef = "til"
   weight = 40
-
+  
 [[footer]]
   name = "Source"
   url = "https://github.com/Ni-g-3l/Ni-g-3l"
+  [footer.params]
+    icon = "github"
+    showName = false
+    target = "_blank"

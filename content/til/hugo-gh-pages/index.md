@@ -1,9 +1,11 @@
 ---
 title: "Hugo on Github Pages"
-date: 2022-12-17
+date: 2023-07-07
+description: "Deploy automaticaly your hugo website directly on github page with Github Actions"
 summary: "Deploy automaticaly your hugo website directly on github page with Github Actions"
-showReadingTime: false
 ---
+How I built an publish my personal website in one hour with Markdown files and the couple Github/Netlify.
+
 ## Github Pages install
 
 1. Add Github Action
