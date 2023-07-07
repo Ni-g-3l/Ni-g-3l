@@ -91,8 +91,10 @@ jobs:
 
 Download File : [Github Hugo Actions Workflows](https://github.com/Ni-g-3l/Ni-g-3l/blob/main/.github/workflows/hugo.yml)
 
-2. Push your modification
+2. Push your modifications
 3. After pushing your modification.
 After your push you will able to see **Actions** tab into your Github repository.
 
 ![action_tab](./action_tab.png)
+
+4. Visit your website
