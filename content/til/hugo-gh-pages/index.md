@@ -95,4 +95,4 @@ Download File : [Github Hugo Actions Workflows](https://github.com/Ni-g-3l/Ni-g-
 3. After pushing your modification.
 After your push you will able to see **Actions** tab into your Github repository.
 
-![action_tab](https://github.com/Ni-g-3l/Ni-g-3l/tree/main/content/til/hugo-gh-pages/action_tab.png)
+![action_tab](./action_tab.png)
