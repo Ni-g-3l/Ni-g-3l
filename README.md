@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-🎓 I am Maxime Cots, a **Back End Desktop Developer** (specializing in **UX/UI**). I am pursuing my Master Degree in **Computer Science** and will graduate in mid-2022 in work and study program.
+🎓 I am Maxime Cots, a **Technical Director**. I am pursuing my Master Degree in **Computer Science** and will graduate in mid-2022 in work and study program.
 
-👨‍💻 I am really enthusiastic about learning new technology. Currently, I'm learning **C#**, **WPF**, **Prism**, **Qt**.
+👨‍💻 I am really enthusiastic about learning new technology. Currently, I'm learning **Blender**, **Python**.
 
 ## 🏆 Certification
 
