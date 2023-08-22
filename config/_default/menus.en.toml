@@ -9,11 +9,6 @@
   name = "Projects"
   pageRef = "projects"
   weight = 30
-
-[[main]]
-  name = "T.I.L"
-  pageRef = "til"
-  weight = 40
   
 [[footer]]
   name = "Source"
