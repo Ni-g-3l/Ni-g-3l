@@ -5,7 +5,7 @@ showReadingTime: false
 
 # Work Experiences
 
-### [2023-Today] The Mill
+### [2023-Today] The Mill & MPC - Paris
 **Technical Director**
 
 ### [2020-2022] Lumiscaphe

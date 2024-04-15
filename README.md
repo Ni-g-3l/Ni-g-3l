@@ -23,7 +23,7 @@
 
 ### GUI Development
 
-![Qt](https://img.shields.io/badge/QT-00599C?style=for-the-badge&logo=Qt&logoColor=white)
+![Qt](https://img.shields.io/badge/QT-00599C?style=for-the-badge&logo=Qt&logoColor=whiete)
 ![Qt](https://img.shields.io/badge/WPF/Prism-28B6F6?style=for-the-badge&logo=Qt&logoColor=white)
 
 ### Tools
