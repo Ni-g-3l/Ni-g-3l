@@ -4,16 +4,3 @@
   name = "Resume"
   pageRef="resume"
   weight = 10
-  
-[[main]]
-  name = "Projects"
-  pageRef = "projects"
-  weight = 30
-  
-[[footer]]
-  name = "Source"
-  url = "https://github.com/Ni-g-3l/Ni-g-3l"
-  [footer.params]
-    icon = "github"
-    showName = false
-    target = "_blank"

@@ -1,11 +1,10 @@
 colorScheme = "fire"
 defaultAppearance = "dark" # valid options: light or dark
 homepage.layout = "profile"
-
 enableCodeCopy = true
 
 [article]
-  showDate = true
+  showDate = false
   showReadingTime = true
 
 [header]
@@ -19,6 +18,6 @@ enableCodeCopy = true
 
 [footer]
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
