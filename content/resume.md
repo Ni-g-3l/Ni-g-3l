@@ -10,17 +10,18 @@ showReadingTime: false
 
 * MikChain - Pipeline Workflow Orchestrator
 * Mars - Maya Auto Rig System - Python 3 Migration
-* FarmWrapper Submitter - Farm Submission Framework
+* vfxFarmWrapper - Farm Submission Framework
 * Color Pipeline Tools
+* Blender Pipeline
 * REZ Custom Commands
 
 ### [2020-2022] Lumiscaphe
 **Software Engineer** - Work and studies program
-* Patchwork 3D :
+* [Patchwork 3D](https://patchwork3d.com/)
     * Python GUI API
     * UI/UX Improvments
 
-* Accel VR :
+* [Accel VR](https://lumiscaphe.com/produits/#:~:text=Visualisez%20avec%20Accel%20VR)
     * Python API Integration
     * Collaborative Mode
     * UI/UX Improvments
