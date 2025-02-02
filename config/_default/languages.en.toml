@@ -2,7 +2,7 @@
 
 title = "Maxime Cots"
 
-[author]
+[params.author]
 name = "Maxime COTS"
 image = "img/author.jpg"
 headline = "C++ - Python - 3D - UI/UX"
