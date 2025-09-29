@@ -2,16 +2,15 @@
 
 ## 🚀 About Me
 
-🎓 I am Maxime Cots, a **Technical Director**. I am pursuing my Master Degree in **Computer Science** and will graduate in mid-2022 in work and study program.
+🎓 I am Maxime Cots, a **Graphic Developer**. I have been graduated from a Master Degree of Computer Science and Entreprise Management in 2022 from University of Bordeaux.
 
-👨‍💻 I am really enthusiastic about learning new technology. Currently, I'm learning **Blender**, **Python**.
+👨‍💻 I am really enthusiastic about learning new technologies espacially computer graphics. Currently, I'm learning **Blender**, **Python**.
 
 ## 🏆 Certification
 
 -   📝 **TOEIC [905 pts]** at University of Bordeaux (January 2021)
 -   🏆 **MOOC - SecNumAcadémie** at ANSSI (June 2020)
 -   ⏫ **MOOC - L'Atelier RGPD** at CNIL (February 2020)
-
 
 ## 🛠️ Skills
 
@@ -20,26 +19,30 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-28B6F6?style=for-the-badge&logo=c-sharp&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-3776AB?style=for-the-badge&logo=glsl&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-00599C?style=for-the-badge&logo=opengl&logoColor=white)
+![VTK](https://img.shields.io/badge/vtk-28B6F6?style=for-the-badge&logo=vtk&logoColor=white)
 
 ### GUI Development
 
 ![Qt](https://img.shields.io/badge/QT-00599C?style=for-the-badge&logo=Qt&logoColor=whiete)
-![Qt](https://img.shields.io/badge/WPF/Prism-28B6F6?style=for-the-badge&logo=Qt&logoColor=white)
+![Qt](https://img.shields.io/badge/WPF/Prism-28B6F6?style=for-the-badge&logo=wpf&logoColor=white)
+![ImGUI](https://img.shields.io/badge/ImGUI-3776AB?style=for-the-badge&logo=imgui&logoColor=white)
 
 ### Tools
 
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white) 
-![jetbrains](https://img.shields.io/badge/jetbrains-28B6F6?style=for-the-badge&logo=jetbrains&logoColor=white) 
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![jetbrains](https://img.shields.io/badge/jetbrains-28B6F6?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ## 🖥️ Workspace Setup
 
-![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![linux](https://img.shields.io/badge/Zorin_OS-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i7-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![linux](https://img.shields.io/badge/Ubuntu_22-0078D6?style=for-the-badge&logo=linux&logoColor=white)
 
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Website-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://maxime-cots.tk/)
+[![portfolio](https://img.shields.io/badge/Website-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ni-g-3l.github.io/Ni-g-3l/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxime-cots/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Ni-g-3l)
