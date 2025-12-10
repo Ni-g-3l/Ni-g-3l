@@ -3,3 +3,5 @@
 content/blog/
 
 *.lock
+
+public/
