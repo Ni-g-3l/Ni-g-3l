@@ -14,6 +14,7 @@ showReadingTime: false
   * Color Pipeline Tools
   * Blender Pipeline
   * Developer Tools
+  * [Filmography](filmography)
 
 * **2020-2022** | Lumiscaphe
 **Software Engineer** - Work and studies program
