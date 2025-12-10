@@ -8,13 +8,13 @@ showReadingTime: false
 * **2023-Today** | The Mill & MPC - Paris
 **Technical Director**
 
+  * [Filmography](filmography)
   * [MikChain](https://www.mpcvfx.com/en/news/level-up-lautomatisation-au-service-de-la-creation/) - Pipeline Workflow Orchestrator
   * Render Farm Submission Framework
   * GUI Framework
   * Color Pipeline Tools
   * Blender Pipeline
   * Developer Tools
-  * [Filmography](filmography)
 
 * **2020-2022** | Lumiscaphe
 **Software Engineer** - Work and studies program
