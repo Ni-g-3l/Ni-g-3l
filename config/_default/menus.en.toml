@@ -9,3 +9,8 @@
   name = "Projects"
   pageRef="projects"
   weight = 30
+
+[[main]]
+  name = "Contents"
+  pageRef="contents"
+  weight = 40
