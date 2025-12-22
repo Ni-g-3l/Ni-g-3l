@@ -32,6 +32,16 @@ git switch -c <branch-name>
 
 ---
 
+### Return to your latest branch
+
+Switches to the latest branch
+
+```bash
+git checkout -
+```
+
+---
+
 ### Discard all tracked local changes
 
 Reverts all tracked files to their last committed state.
