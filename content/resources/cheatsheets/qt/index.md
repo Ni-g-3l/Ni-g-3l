@@ -15,10 +15,6 @@ It is widely used for building **desktop applications**, **GUIs**, and **embedde
 
 ---
 
-Voici une **version corrigée et techniquement exacte**, en gardant le style cheatsheet :
-
----
-
 ### Check if a `QListWidgetItem` is checkable
 
 ```python
