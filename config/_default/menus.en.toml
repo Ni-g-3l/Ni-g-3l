@@ -7,5 +7,5 @@
 
 [[main]]
   name = "Resources"
-  pageRef="contents"
+  pageRef="resources"
   weight = 20
