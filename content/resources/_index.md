@@ -1,5 +1,5 @@
 ---
-title: "Side Projects"
+title: "Resources"
 
 cascade:
   showEdit: false

@@ -1,5 +1,6 @@
 ---
 title: "Playlists"
+date: 2020-01-01
 
 cascade:
   showEdit: false

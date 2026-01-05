@@ -1,6 +1,6 @@
 ---
 title: "Selfhosted Homelab"
-date: 2024-06-01
+date: 2025-12-01
 externalUrl: "https://github.com/Ni-g-3l/homelab"
 description: "A personnal server running some services for me and my family."
 summary: "A personnal server running some services for me and my family."

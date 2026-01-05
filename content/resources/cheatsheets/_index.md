@@ -1,5 +1,7 @@
 ---
 title: "CheatSheets"
+date: 2024-01-01
+
 
 cascade:
   showEdit: false
