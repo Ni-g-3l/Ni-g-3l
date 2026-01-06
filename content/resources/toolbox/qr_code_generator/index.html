@@ -1,0 +1,57 @@
+---
+title: "QR Code Generator"
+date: 2025-01-01
+description: "Quickly generate QR codes for links, text, or contact info. Fast, easy, and ready to share."
+summary: "Quickly generate QR codes for links, text, or contact info. Fast, easy, and ready to share."
+tags: ["QR", "toolbox"]
+---
+
+<link rel="stylesheet" href="../style.css" />
+<script src="js/qrcode.min.js"></script>
+<script src="js/qr_code_generator.js"></script>
+
+Easily turn links, text, or contact details into scannable QR codes. Perfect for
+marketing campaigns, print materials, and digital promotions. Generate,
+download, and share your QR code in seconds.
+
+<div>
+    <center id="qr_code"></center>
+</div>
+<div>
+    <div>Url :</div>
+    <input
+        type="text"
+        id="url"
+        name="url"
+        value="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    />
+    <div>Foreground :</div>
+    <input
+        type="color"
+        id="foreground_color"
+        name="foreground_color"
+        value="#D0893D"
+    />
+    <div>Background :</div>
+    <input
+        type="color"
+        id="background_color"
+        name="background_color"
+        value="#292524"
+    />
+    <div>Width :</div>
+    <input type="number" id="width" name="width" value="500" />
+    <div>Height :</div>
+    <input type="number" id="height" name="height" value="500" />
+</div>
+
+<div class="grid">
+    <div>
+        <button id="copy-button" onclick="create()">CREATE</button>
+        &nbsp;
+        <button id="copy-button" onclick="download()">DOWNLOAD</button>
+        &nbsp;
+        <button id="copy-button" onclick="reset()">RESET</button>
+        &nbsp;
+    </div>
+</div>
