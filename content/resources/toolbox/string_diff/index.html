@@ -4,6 +4,7 @@ date: 2025-01-01
 description: "Compare two strings and instantly highlight differences. Useful for text comparison, debugging, and content review."
 summary: "Compare two strings and see their differences highlighted side by side."
 tags: ["diff", "string", "text", "toolbox"]
+layout: "simple"
 ---
 
 <link rel="stylesheet" href="../style.css" />
@@ -13,14 +14,13 @@ tags: ["diff", "string", "text", "toolbox"]
 <div>
     <div>Source :</div>
     <textarea id="src" name="src"/> </textarea>
+
     <div>Compare :</div>
     <textarea id="dst" name="dst"/> </textarea>
 </div>
 
 <div id="result"></div>
 
-<div class="grid">
-    <div>
-        <button id="compare-button" onclick="compare()">COMPARE</button>
-    </div>
+<div>
+    <button id="compare-button" onclick="compare()">COMPARE</button>
 </div>
